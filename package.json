@@ -15,7 +15,7 @@
         "bootstrap": "^4.1.1",
         "gulp": "^3.9.1",
         "gulp-sourcemaps": "^2.6.4",
-        "jquery": "^1.9.1",
+        "jquery": "^3.5.0",
         "popper.js": "^1.14.3",
         "trim-newlines": ">=3.0.1"
     }
