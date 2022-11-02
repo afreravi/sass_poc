@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "bootstrap": "^4.1.1",
-        "gulp": "^3.9.1",
+        "gulp": "^4.0.2",
         "gulp-sourcemaps": "^2.6.4",
         "jquery": "^1.9.1",
         "popper.js": "^1.14.3",
